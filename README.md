@@ -75,6 +75,7 @@
 > ### 로그인, 회원가입
 > 카카오 로그인을 통해 회원가입이 가능합니다.
 >
+><img src="./img/shortgif/splash_gif.gif" alt="splash" width="200" height="400">
 ><img src="./img/login.JPG" alt="login" width="200" height="400">
 ><img src="./img/userinfo.jpg" alt="userinfo" width="200" height="400">
 
