@@ -42,7 +42,7 @@
 
 |윤세림 | 홍민기 | 조민지 |
 |:-:|:-:|:-:|
-|<img src="./img/ysr.jpg" height=200 width=200>|<img src="./img/hmk.jpg" height=200 width=200>|<img src="./img/jmj.jpg" height=200 width=200>>|
+|<img src="./img/ysr.jpg" height=200 width=200>|<img src="./img/hmk.jpg" height=200 width=200>|<img src="./img/jmj.jpg" height=200 width=200>|
 |[@serim53](https://github.com/serim53)|[@hong0708](https://github.com/hong0708)|[@whalswl1126](https://github.com/whalswl1126)|
 
 ### **BackEnd**
